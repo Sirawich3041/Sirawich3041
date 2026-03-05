@@ -1,7 +1,7 @@
-# 👋 ยินดีต้อนรับสู่โปรไฟล์ของผม
+# 👋 สวัสดีผมคไทย
 
 💻 **Trader** | 🛡️ **Cybersecurity Enthusiast**
-🚀 หลงใหลในการเขียนสคริปต์ Automation และการทดสอบระบบผ่าน Mobile
+🚀 ชอบในการเขียนสคริปต์ Automation และการทดสอบระบบผ่าน Mobile/PC
 
 ---
 
@@ -26,11 +26,16 @@
 
 ---
 
-## 🥢 My Vibes
-* **Favorite Dish:** คั่วกลิ้งฝีมือย่า (Rare Item ที่หาที่ไหนเทียบไม่ได้)
-* **Communication:** เน้นเนื้อๆ ตรงๆ ไม่เน้นน้ำ
+## 🎧 Music
+* **I WANNA BE:** 
+* **Again:**
+* **WILDFLOWER Billie Eilish:**
+* **505:**
+* **Notion:**
+* **I love you so:**
+* **i thought i saw your face today:**
+* **Cry:**
+* **back of friend:**
+* **Nuts:**
 
 ---
-
-> "Logic will get you from A to B. Imagination will take you everywhere."
-> 
