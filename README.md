@@ -1,4 +1,4 @@
-# 👋 สวัสดีผมคไทย
+# 👋 สวัสดีผมคนไทย
 
 💻 **Trader** | 🛡️ **Cybersecurity Enthusiast**
 🚀 ชอบในการเขียนสคริปต์ Automation และการทดสอบระบบผ่าน Mobile/PC
